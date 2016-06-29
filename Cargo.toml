@@ -1,0 +1,7 @@
+[package]
+name = "parse-example"
+version = "0.1.0"
+authors = ["Steve Klabnik <steve@steveklabnik.com>"]
+
+[dependencies]
+byteorder = "0.5.3"
